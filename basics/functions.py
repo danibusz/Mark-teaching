@@ -17,3 +17,5 @@ def print_multiple_funny(time):
         print_funny()
 
 print_multiple_funny(7)
+
+#that is all
